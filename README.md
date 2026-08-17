@@ -7,6 +7,10 @@
 <p align="center">
   <img width="200" height="200" src="https://media.tenor.com/UD3FJwYwY3IAAAAi/pikachu-dance.gif">
 </p>
+<p align="center">
+  <img height="300" width="500" alt="GIF" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
+</p>
+
 
 <h2 align="center"> umm. ya i kinda like building things </h2>
 
