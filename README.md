@@ -1,7 +1,7 @@
 <h1 align="center"> 🤖 builder - ✨ sarthak patil ✨ - ai/ml developer ⚡ </h1>
 
 <p align="center">
-<img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Student+%E2%86%92+Engineer+%E2%86%92+Builder+%E2%86%92+Founder;AI%2FML+Developer;Full-Stack+Developer;Product+Builder;Problem+Solver" />
 </p>
 
 <p align="center">
