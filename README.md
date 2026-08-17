@@ -1,13 +1,19 @@
-<h1 align=center> ⚡ builder - ✨ sarthak patil ✨ - ai/ml developer ⚡ </h1>
+<h1 align="center"> 🤖 builder - ✨ sarthak patil ✨ - ai/ml developer ⚡ </h1>
 
-<p align=center> <img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif"> </p>
+<p align="center">
+<img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
+</p>
 
-<h2 align=center> umm. ya i kinda like building things </h2>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI%2FML+Builder;Full-Stack+Developer;Problem+Solver;Product+Builder;Building+things+that+actually+work.">
+</p>
 
-<p align=center> <b> learning. building. breaking. repeating. </b></p>
+<h2 align="center"> umm. ya i kinda like building things </h2>
 
-<p align=center>
-  <b> CSE (AI/ML) @ MIT Academy of Engineering </b>
+<p align="center"> <b> learning. building. breaking. repeating. </b></p>
+
+<p align="center">
+<b> CSE (AI/ML) @ MIT Academy of Engineering </b>
 </p>
 
 ---
@@ -19,20 +25,19 @@
 | **toolkit**              | ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white) ![kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white) ![raspberry pi](https://img.shields.io/badge/-raspberry_pi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi) ![arduino](https://img.shields.io/badge/-arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white) ![espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge\&logo=espressif\&logoColor=white)                                                                                                                                                                                                                                                                                                               |
 | **frontend**             | ![next js](https://img.shields.io/badge/next-black?style=for-the-badge\&logo=next.js\&logoColor=white) ![hugo](https://img.shields.io/badge/hugo-black.svg?style=for-the-badge\&logo=Hugo) ![svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge\&logo=svelte\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **ai / ml**              | ![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge\&logo=matplotlib\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **community**            | [![youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge\&logo=YouTube\&logoColor=white)](https://youtube.com/) [![discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **social links**         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/) [![github](https://img.shields.io/badge/github-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/) [![leetcode](https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge\&logo=LeetCode\&logoColor=black)](https://leetcode.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **social links**         | [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sarthak-patil07/) [![github](https://img.shields.io/badge/github-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME) [![leetcode](https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge\&logo=LeetCode\&logoColor=black)](https://leetcode.com/u/sarthak_p18/)                                                                                                                                                                                                                                                           |
 
 ---
 
 ## 🔎 about me 🔎
 
-<h3 align=center> 🧠 <i> building my way forward </i> ⚡ </h3>
+<h3 align="center"> 🧠 <i> building my way forward </i> ⚡ </h3>
 
-<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
+<img height="300" width="500" alt="AI/ML builder" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
 🔥 <b> CSE (AI/ML) student at MIT Academy of Engineering </b>
 
-🤖 <b> AI/ML enthusiast — interested in turning models into useful products </b>
+🤖 <b> AI/ML builder — turning ideas into useful intelligent systems </b>
 
 🛠️ <b> full-stack developer — building applications from frontend to backend </b>
 
@@ -40,7 +45,7 @@
 
 🌐 <b> product builder — interested in building technology that solves real problems </b>
 
-🚀 <b> currently working on AI, full-stack and real-world engineering projects </b>
+🚀 <b> working on AI, full-stack and real-world engineering projects </b>
 
 🎓 <b> B.Tech in Computer Science & Engineering (AI/ML) </b>
 
@@ -119,17 +124,9 @@ AI/ML, software engineering, system design, startups, business, product developm
 
 #### what's the goal?
 
-To become extremely good at **building useful things**.
+To become extremely good at **building useful things.**
 
 Not just collecting technologies.
-
----
-
-## 📚 things i'm exploring
-
-<i>
-Artificial Intelligence · Machine Learning · Deep Learning · Data Structures & Algorithms · System Design · Backend Engineering · Cloud Computing · Product Development
-</i>
 
 ---
 
@@ -140,5 +137,5 @@ Artificial Intelligence · Machine Learning · Deep Learning · Data Structures 
 </p>
 
 <p align="center">
-  <i>still early. still building.</i>
+<i>still early. still building.</i>
 </p>
