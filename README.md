@@ -1,364 +1,146 @@
-<h1 align="center">⚡ Sarthak Patil — AI/ML Engineer & Builder ⚡</h1>
+<h1 align=center> ⚡ builder - ✨ sarthak patil ✨ - ai/ml developer ⚡ </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+progress.;Building+things+that+actually+work.;Full-stack+%7C+AI%2FML+%7C+Systems;Learn.+Build.+Break.+Repeat." />
+<p align=center>
+<img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
 </p>
 
-<p align="center">
-  <b>Computer Science & Engineering (AI/ML) student · Product Builder · Problem Solver</b>
-</p>
+<h2 align=center> umm. ya i kinda like building things </h2>
 
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<p align=center> <b> learning. building. breaking. repeating. </b></p>
+
+<p align=center>
+  <b> CSE (AI/ML) @ MIT Academy of Engineering </b>
 </p>
 
 ---
 
-## 🧠 who am i?
-
-```text
-Student → Engineer → Builder → Founder
-              ↑
-        currently here
-```
-
-I'm a CSE (AI/ML) student who likes going beyond tutorials and actually **building systems**.
-
-My interests sit at the intersection of:
-
-**Artificial Intelligence · Machine Learning · Software Engineering · Product Development · Systems · Entrepreneurship**
-
-I enjoy taking an idea from:
-
-`"what if..." → architecture → code → deployment → something people can actually use`
-
-Currently exploring how far I can push myself technically while building real products along the way.
+| **category**             | **tech stack**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **languages**            | ![go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white) ![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white) ![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge\&logo=rust\&logoColor=white) ![bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white) ![solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white) |
+| **productivity systems** | ![arch](https://img.shields.io/badge/arch%20linux-1793D1?logo=arch-linux\&logoColor=fff\&style=for-the-badge) ![debian](https://img.shields.io/badge/debian-D70A53?style=for-the-badge\&logo=debian\&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge\&logo=macos\&logoColor=F0F0F0) ![neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge\&logo=neovim\&logoColor=white) ![notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white) ![spotify](https://img.shields.io/badge/spotify-1ED760?style=for-the-badge\&logo=spotify\&logoColor=white)                                                                                                                                                                                                                            |
+| **toolkit**              | ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white) ![kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white) ![raspberry pi](https://img.shields.io/badge/-raspberry_pi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi) ![arduino](https://img.shields.io/badge/-arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white) ![espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge\&logo=espressif\&logoColor=white)                                                                                                                                                                                                                                                                                                               |
+| **frontend**             | ![next js](https://img.shields.io/badge/next-black?style=for-the-badge\&logo=next.js\&logoColor=white) ![hugo](https://img.shields.io/badge/hugo-black.svg?style=for-the-badge\&logo=Hugo) ![svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge\&logo=svelte\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **ai / ml**              | ![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge\&logo=matplotlib\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **community**            | [![youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge\&logo=YouTube\&logoColor=white)](https://youtube.com/) [![discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **social links**         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/) [![github](https://img.shields.io/badge/github-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/) [![leetcode](https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge\&logo=LeetCode\&logoColor=black)](https://leetcode.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ---
 
-## 🚀 what i'm building
+## 🔎 about me 🔎
 
-### 🤖 AI / ML
+<h3 align=center> 🧠 <i> building my way forward </i> ⚡ </h3>
 
-* Machine learning systems and predictive models
-* AI-powered applications
-* Intelligent automation
-* Data analysis and visualization
-* Experimenting with different ML architectures
-* Learning how models actually work instead of treating them as black boxes
+<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
-### 🧩 Systems & Software
+🔥 <b> CSE (AI/ML) student at MIT Academy of Engineering </b>
 
-* Constraint-based optimization
-* Algorithmic problem solving
-* API architecture
-* Database design
-* Backend systems
-* Full-stack applications
-* Cloud deployment
+🤖 <b> AI/ML enthusiast — interested in turning models into useful products </b>
 
-### 🌐 Product Engineering
+🛠️ <b> full-stack developer — building applications from frontend to backend </b>
 
-I like building complete products rather than isolated demos.
+🧩 <b> problem solver — exploring DSA, optimization and system design </b>
 
-That means:
+🌐 <b> product builder — interested in building technology that solves real problems </b>
 
-```text
-Idea
- ↓
-UX
- ↓
-Frontend
- ↓
-Backend
- ↓
-Database
- ↓
-AI / Logic
- ↓
-Deployment
- ↓
-Real users
-```
+🚀 <b> currently working on AI, full-stack and real-world engineering projects </b>
+
+🎓 <b> B.Tech in Computer Science & Engineering (AI/ML) </b>
 
 ---
 
-# 🛠️ my stack
+## 🚀 projects
 
-### Languages
+### 🎓 Campus Intelligence
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-### AI / Data
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
-</p>
-
-### Full Stack
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
-
-### Databases & Backend
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-</p>
-
-### Cloud / Tools
-
-<p>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
----
-
-# 🔥 things i've worked on
-
-### 🏫 Campus Intelligence
-
-Working on systems for smarter campus infrastructure, including:
+Building intelligent systems for modern campus infrastructure.
 
 * AI-assisted timetable generation
-* Constraint satisfaction
-* CP-SAT optimization
+* CP-SAT based optimization
 * Faculty and room constraints
 * NEP 2020 academic structures
-* 3D campus navigation
-* Three.js-based visualization
-
-```text
-Academic Data
-     ↓
-Constraints
-     ↓
-Optimization Engine
-     ↓
-Timetable
-     ↓
-Visualization
-```
-
----
+* 3D campus visualization
+* Three.js based navigation
 
 ### 🌱 Agrishield
 
-Working on digital transformation and technology for **Agrishield Industries**, including:
+Working on technology and digital systems for an agricultural business.
 
-* Digital branding
 * Website development
+* Digital branding
 * SEO
 * Product presentation
+* AI-assisted workflows
 * Digital marketing
-* AI-assisted content workflows
 
-The goal isn't just to make things look better.
+### 🤖 AI / ML Projects
 
-It's to turn technology into **actual business leverage**.
-
----
-
-### 🧠 AI / ML Projects
-
-Some of the areas I've explored:
-
-* Student performance prediction
-* Machine learning pipelines
-* Data analysis
+* Student Performance Predictor
+* Machine learning experiments
+* Data analysis projects
 * Predictive modeling
 * AI-powered applications
-* Intelligent automation
 
 ---
 
-# ⚙️ how i like to work
-
-I don't want to become someone who can only follow tutorials.
-
-My preferred loop is:
-
-```text
-LEARN
-  ↓
-UNDERSTAND
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-SHIP
-  ↓
-REPEAT
-```
-
-If I don't understand something, I go deeper.
-
-If I already understand it, I try to build something with it.
-
----
-
-# 📚 currently learning
-
-```text
-[████████████████░░░░]  AI / ML
-[██████████████░░░░░░]  DSA
-[██████████████░░░░░░]  System Design
-[████████████░░░░░░░░]  Backend Engineering
-[████████████░░░░░░░░]  Cloud
-[██████████░░░░░░░░░░]  Product & Business
-```
-
-Currently focusing heavily on:
-
-* Python for AI/ML
-* C++ for DSA
-* Machine Learning fundamentals
-* Deep Learning
-* Backend engineering
-* System design
-* Cloud infrastructure
-* Building real-world AI products
-
----
-
-# 🧪 projects
-
-| Project                          | What it does                        | Stack                          |
-| -------------------------------- | ----------------------------------- | ------------------------------ |
-| 🎓 Campus Intelligence           | Timetable optimization + 3D campus  | Python · CP-SAT · Three.js     |
-| 🌱 Agrishield                    | Digital platform & branding systems | Next.js · AI · Cloud           |
-| 📊 Student Performance Predictor | Predictive ML system                | Python · Pandas · ML           |
-| 🧠 AI Experiments                | ML / AI experiments & research      | Python · NumPy · Pandas        |
-| 🌐 Full-stack Projects           | End-to-end web applications         | Next.js · FastAPI · PostgreSQL |
-
-> More projects coming. I don't believe in filling GitHub with tutorial clones just to increase the repository count.
-
----
-
-# 🧰 tools i actually use
+# 📊 github stats
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark">
+</p>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white">
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark">
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark">
 </p>
 
 ---
 
-# 📈 github
+## 🤔 faqs 🤔
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark">
-</p>
+#### what do i build?
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark">
-</p>
+Mostly things around **AI/ML, full-stack development, automation and problem solving.**
 
----
+#### why ai/ml?
 
-# 🧭 beyond code
+Because I don't just want software to execute instructions.
 
-I don't want my entire life to happen behind a screen.
+I want to understand how software can **learn, reason and make decisions.**
 
-I'm interested in:
+#### what am i interested in?
 
-* 🧠 Philosophy
-* 📈 Business
-* 🚀 Startups
-* 🏏 Cricket
-* 🏃 Fitness & running
-* 🎤 Communication
-* 📚 Reading
-* 🌍 Technology and its impact on society
+AI/ML, software engineering, system design, startups, business, product development and technology.
 
-My long-term goal is simple:
+#### what do i do when i'm not coding?
 
-**Become exceptionally good at building things that matter.**
+🏏 Cricket · 🏃 Running · 📚 Reading · 🎤 Communication · 💡 Building ideas
+
+#### what's the goal?
+
+To become extremely good at **building useful things**.
+
+Not just collecting technologies.
 
 ---
 
-# 🎯 the long game
+## 📚 things i'm exploring
 
-```text
-      ┌──────────────────────┐
-      │      LEARN MORE      │
-      └──────────┬───────────┘
-                 ↓
-      ┌──────────────────────┐
-      │      BUILD MORE      │
-      └──────────┬───────────┘
-                 ↓
-      ┌──────────────────────┐
-      │      SHIP MORE       │
-      └──────────┬───────────┘
-                 ↓
-      ┌──────────────────────┐
-      │      FAIL MORE       │
-      └──────────┬───────────┘
-                 ↓
-      ┌──────────────────────┐
-      │      GET BETTER      │
-      └──────────┬───────────┘
-                 ↓
-              REPEAT
-```
-
-I'm still early.
-
-That's the point.
+<i>
+Artificial Intelligence · Machine Learning · Deep Learning · Data Structures & Algorithms · System Design · Backend Engineering · Cloud Computing · Product Development
+</i>
 
 ---
 
-# 🤝 let's connect
-
 <p align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<b>⚡ build things. solve problems. keep moving.</b>
 
 </p>
 
 <p align="center">
-  <i>Build something worth remembering.</i>
-</p>
-
-<p align="center">
-  ⭐ If something here helped you, feel free to star a repository.
+  <i>still early. still building.</i>
 </p>
