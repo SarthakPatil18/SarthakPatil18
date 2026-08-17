@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
+  <img width="200" height="200" src="https://media.tenor.com/placeholder-pikachu.gif">
 </p>
 
 <h2 align="center"> umm. ya i kinda like building things </h2>
@@ -38,8 +38,6 @@
 ## 🔎 about me 🔎
 
 <h3 align="center"> 🧠 <i> building my way forward </i> ⚡ </h3>
-
-<img height="300" width="500" alt="AI/ML builder" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
 🔥 <b> CSE (AI/ML) student at MIT Academy of Engineering </b>
 
