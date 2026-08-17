@@ -139,3 +139,6 @@ Not just collecting technologies.
 <p align="center">
 <i>still early. still building.</i>
 </p>
+<p align="center">
+  <img src="footer." width="100%" alt="Tech Stack Banner">
+</p>
