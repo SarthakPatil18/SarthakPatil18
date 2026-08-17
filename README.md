@@ -140,5 +140,5 @@ Not just collecting technologies.
 <i>still early. still building.</i>
 </p>
 <p align="center">
-  <img src="footer." width="100%" alt="Tech Stack Banner">
+  <img src="footer.png" width="100%" alt="Tech Stack Banner">
 </p>
