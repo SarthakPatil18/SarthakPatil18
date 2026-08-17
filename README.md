@@ -1,8 +1,6 @@
 <h1 align=center> ⚡ builder - ✨ sarthak patil ✨ - ai/ml developer ⚡ </h1>
 
-<p align=center>
-<img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
-</p>
+<p align=center> <img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif"> </p>
 
 <h2 align=center> umm. ya i kinda like building things </h2>
 
