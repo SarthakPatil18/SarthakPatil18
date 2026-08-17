@@ -1,4 +1,4 @@
-<h1 align="center"> 🤖 builder - ✨ sarthak patil ✨ - ai/ml developer ⚡ </h1>
+<h1 align="center"> 🤖 builder - ❄️ sarthak patil ❄️ - ai/ml developer ⚡ </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+progress.;Building+things+that+actually+work.;Full-stack+%7C+AI%2FML+%7C+Systems;Learn.+Build.+Break.+Repeat." />
