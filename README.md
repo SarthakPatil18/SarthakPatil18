@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="200" height="200" src="https://media.tenor.com/placeholder-pikachu.gif">
-</p>
-<p align="center">
-  <img width="200" height="200" src="https://media.tenor.com/placeholder-pikachu.gif">
+  <img width="200" height="200" src="https://media.tenor.com/UD3FJwYwY3IAAAAi/pikachu-dance.gif">
 </p>
 
 <h2 align="center"> umm. ya i kinda like building things </h2>
