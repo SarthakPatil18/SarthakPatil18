@@ -86,6 +86,18 @@ Working on technology and digital systems for an agricultural business.
 * AI-assisted workflows
 * Digital marketing
 
+### 🚀 PivotVault
+
+AI-powered startup intelligence platform for analyzing startups, risks, competitors and failure patterns.
+
+* AI-powered Startup Intelligence
+* Startup failure and risk analysis
+* AI Startup Assistant with RAG
+* Competitor comparison
+* Pitch deck analysis
+* Founder playbooks and insights
+* Startup intelligence graph
+
 ### 🤖 AI / ML Projects
 
 * Student Performance Predictor
