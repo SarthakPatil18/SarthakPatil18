@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-  <img width="200" height="200" src="https://media.tenor.com/UD3FJwYwY3IAAAAi/pikachu-dance.gif">
-</p>
-<p align="center">
   <img height="300" width="500" alt="GIF" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 </p>
 
@@ -70,6 +67,10 @@ social links
    
 
 🔎 about me 🔎
+
+<p align="center">
+  <img width="200" height="200" src="https://media.tenor.com/UD3FJwYwY3IAAAAi/pikachu-dance.gif">
+</p>
 
 <h3 align="center"> 🧠 <i> building my way forward </i> ⚡ </h3>
 
@@ -163,6 +164,10 @@ I want to understand how software can learn, reason and make decisions.
 what am i interested in?
 
 AI/ML, software engineering, system design, startups, business, product development and technology.
+
+what do i do when i'm not coding?
+
+🏏 Cricket · 🏃 Running · 📚 Reading · 🎤 Communication · 💡 Building ideas
 
 what's the goal?
 
