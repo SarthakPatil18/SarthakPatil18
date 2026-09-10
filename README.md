@@ -125,31 +125,7 @@ AI-powered startup intelligence platform for analyzing startups, risks, competit
 
 ---
 
-## 🤔 faqs 🤔
 
-#### what do i build?
-
-Mostly things around **AI/ML, full-stack development, automation and problem solving.**
-
-#### why ai/ml?
-
-Because I don't just want software to execute instructions.
-
-I want to understand how software can **learn, reason and make decisions.**
-
-#### what am i interested in?
-
-AI/ML, software engineering, system design, startups, business, product development and technology.
-
-
-
-#### what's the goal?
-
-To become extremely good at **building useful things.**
-
-Not just collecting technologies.
-
----
 
 <p align="center">
   <b>⚡ build things. solve problems. keep moving.</b>
