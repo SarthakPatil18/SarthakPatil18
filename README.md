@@ -111,19 +111,22 @@ AI-powered startup intelligence platform for analyzing startups, risks, competit
 # 📊 github stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarthakPatil18&theme=github_dark">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SarthakPatil18&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakPatil18&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SarthakPatil18&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SarthakPatil18&theme=github_dark">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakPatil18&theme=github-dark-blue&hide_border=true"
+    height="180"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarthakPatil18&theme=github_dark">
-</p>
-
----
 
 
 
