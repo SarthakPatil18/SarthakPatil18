@@ -16,6 +16,8 @@
 
 
 <h2 align="center"> umm. ya i kinda like building things </h2>
+[![sarthakp.runs-at.dev](https://runs-at.dev/banner/sarthakp)](https://sarthakp.runs-at.dev)
+<a href="https://sarthakp.runs-at.dev"><img src="https://runs-at.dev/banner/sarthakp" alt="sarthakp.runs-at.dev" width="1200" height="630"></a>
 
 <p align="center">
   <b> learning. building. breaking. repeating. </b>
